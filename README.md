@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Jan Reinhold, a working accountanta and a wanna be software developer.
+- 👋 Hi, I’m Jan Reinhold, a working as an accountant and a wanna be software developer.
 - I just started my journey 07.23.2023 in learning how to code, through my first language which is python.
